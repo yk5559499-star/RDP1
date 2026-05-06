@@ -1,0 +1,19 @@
+{
+    "approved": [
+        5627851687
+    ],
+    "blocked": [],
+    "stats": {
+        "checked": 19,
+        "fresh": 4,
+        "used": 15,
+        "banned": 0,
+        "hits": 4,
+        "misses": 15
+    },
+    "last_cleanup": {
+        "5627851687": [],
+        "7816549905": []
+    },
+    "users": {}
+}
