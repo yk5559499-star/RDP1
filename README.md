@@ -1,0 +1,5 @@
+pyTelegramBotAPI
+requests
+telethon
+pycountry
+asyncio
